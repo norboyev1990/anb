@@ -1,2 +1,2 @@
 # anb
-GlobalXC
+GlobalXCc
